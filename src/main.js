@@ -32,7 +32,7 @@ k.loadSprite("motobug", "graphics/motobug.png", {
 
 k.loadFont("mania", "fonts/mania.ttf");
 
-k.loadSound("destory", "sounds/Destroy.wav");
+k.loadSound("destroy", "sounds/Destroy.wav");
 k.loadSound("hurt", "sounds/Hurt.wav")
 k.loadSound("hyper-ring", "sounds/HyperRing.wav");
 k.loadSound("jump","sounds/Jump.wav");
